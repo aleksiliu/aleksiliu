@@ -36,8 +36,6 @@ With over 12 years of experience, I've evolved from crafting production-quality 
 
 ## Contact
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out:
-
 - 📧 Email: liukkonenaleksi@gmail.com
 - 📱 Phone: +358 44 350 2828
 - 🌐 Personal Website: [aleksiliukkonen.fi](https://aleksiliukkonen.fi/)
