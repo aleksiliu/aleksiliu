@@ -1,4 +1,4 @@
-I'm Aleksi, a Front-End Developer with a strong background in UX/UI design.
+Front-End Developer with a strong background in UX/UI design.
 
 ## About Me
 
