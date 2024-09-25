@@ -4,7 +4,7 @@ I'm Aleksi, a Front-End Developer with a strong background in UX/UI design.
 
 ## About Me
 
-With over 12 years of experience, I've evolved from crafting production-quality visual designs for web and mobile applications to becoming a front-end developer. I combine my coding expertise with design skills to create seamless, interactive, and visually engaging digital experiences. As a passionate visual storyteller, I transform ideas into functional, memorable interfaces that connect imagination with reality.
+With over 12 years of experience, I've evolved from crafting production-quality visual designs for web and mobile applications to becoming a front-end developer. I combine my coding expertise with design skills to create seamless, interactive, and visually engaging digital experiences.
 
 ##  What I Do
 
