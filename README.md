@@ -1,10 +1,18 @@
-# Front-End Developer
+# Aleksi Liukkonen - Front-End Developer & Designer
 
-Hi there! 👋 I'm a passionate front-end developer with a strong foundation in web technologies and a keen eye for design. Welcome to my GitHub profile!
+👋 Hi there! I'm Aleksi, a Front-End Developer with a strong background in UX/UI design.
 
-## 🚀 Technologies & Experience
+## 🚀 About Me
 
-Here's a snapshot of my technical skills and experience:
+With over 12 years of experience, I've evolved from crafting production-quality visual designs for web and mobile applications to becoming a front-end developer. I combine my coding expertise with design skills to create seamless, interactive, and visually engaging digital experiences. As a passionate visual storyteller, I transform ideas into functional, memorable interfaces that connect imagination with reality.
+
+## 💼 What I Do
+
+- **Front-End Engineering**: Crafting responsive, user-friendly solutions using HTML5, CSS3, TypeScript, and React.js.
+- **UI/UX Design**: Creating clean, modern designs that prioritize usability and aesthetics.
+- **Performance Optimization**: Enhancing web application speed and efficiency through code optimization.
+
+## 🛠 Technologies & Experience
 
 ![HTML](https://img.shields.io/badge/HTML-12%20years-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-12%20years-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,40 +22,25 @@ Here's a snapshot of my technical skills and experience:
 ![Next.js](https://img.shields.io/badge/Next.js-1%20year-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-2%20years-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2%20years-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-6%20years-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💼 What I Do
+## 👨‍💻 Professional Experience
 
-As a front-end developer, I specialize in creating responsive, accessible, and user-friendly web applications. My expertise includes:
-
-- Building modern, performant websites using HTML, CSS, and JavaScript
-- Developing single-page applications with React and Next.js
-- Implementing responsive designs and ensuring cross-browser compatibility
-- Writing clean, maintainable, and well-documented code
-- Collaborating with designers to bring Figma mockups to life
-- Optimizing web applications for maximum speed and scalability
+- **Front-End Developer / Designer** (Self-employed, 2019 - Present)
+- **Designer** at DK&A (2017 - 2019)
+- **Visual Designer** at Siili Solutions (2014 - 2017)
+- **Visual Designer** at Avaus (2013 - 2014)
+- **Junior Designer** at Avaus (2012 - 2013)
 
 ## 🌱 Current Focus
 
-I'm currently expanding my skills in:
-
-- Advanced TypeScript patterns and best practices
-- Exploring the capabilities of Astro for static site generation
-- Deepening my knowledge of React hooks and state management
-- Improving web accessibility and performance optimization techniques
+- Integrating AI into my workflow
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out to me through:
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out:
 
-- [LinkedIn](#) (Add your LinkedIn profile link)
-- [Twitter](#) (Add your Twitter profile link)
-- [Personal Website](#) (Add your website link if you have one)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🙏 Thanks for visiting!
-
-Thank you for taking the time to view my GitHub profile. Feel free to explore my repositories and don't hesitate to star ⭐️ or fork 🍴 any projects you find interesting!
+- 📧 Email: liukkonenaleksi@gmail.com
+- 📱 Phone: +358 44 350 2828
+- 🌐 Personal Website: [aleksiliukkonen.fi](https://aleksiliukkonen.fi/)
+- 🛠️ CraftCode: [craftcode.fi](https://craftcode.fi/)
