@@ -39,4 +39,4 @@ With over 12 years of experience, I've evolved from crafting production-quality 
 - 📧 Email: liukkonenaleksi@gmail.com
 - 📱 Phone: +358 44 350 2828
 - 🌐 Personal Website: [aleksiliukkonen.fi](https://aleksiliukkonen.fi/)
-- 🛠️ CraftCode: [craftcode.fi](https://craftcode.fi/)
+- 🛠️ Crafting custom websites via CraftCode: [craftcode.fi](https://craftcode.fi/)
