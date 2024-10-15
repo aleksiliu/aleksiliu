@@ -19,7 +19,7 @@ With over 12 years of experience, I've evolved from crafting production-quality 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1%20year-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1%20year-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-2%20years-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2%20years-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-6%20years-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Professional Experience
