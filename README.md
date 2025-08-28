@@ -6,7 +6,7 @@ With over 12 years of experience, I've evolved from crafting production-quality 
 
 ##  What I Do
 
-- **Front-End Engineering**: Crafting responsive, user-friendly solutions using HTML5, CSS3, TypeScript, and React.js.
+- **Front-End Engineering**: Crafting responsive, user-friendly solutions using Tailwind, TypeScript, and React.js.
 - **UI/UX Design**: Creating clean, modern designs that prioritize usability and aesthetics.
 - **Performance Optimization**: Enhancing web application speed and efficiency through code optimization.
 
@@ -39,4 +39,3 @@ With over 12 years of experience, I've evolved from crafting production-quality 
 - 📧 Email: liukkonenaleksi@gmail.com
 - 📱 Phone: +358 44 350 2828
 - 🌐 Personal Website: [aleksiliukkonen.fi](https://aleksiliukkonen.fi/)
-- 🛠️ Crafting custom websites via CraftCode: [craftcode.fi](https://craftcode.fi/)
